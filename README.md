@@ -2,6 +2,17 @@
 
 Librería de componentes UI optimizada para React Native que ofrece una colección completa de elementos de interfaz listos para usar: botones personalizables con múltiples tipos de interacción, campos de texto avanzados con soporte para iconos y validación, áreas de texto multilínea, campos de contraseña con visibilidad controlada, menús desplegables dinámicos, barras de progreso configurables, tarjetas simples y botones flotantes con animaciones. Diseñada con TypeScript para mejor tipado y rendimiento optimizado.
 
+## 📚 Documentación Completa
+
+¿Nuevo en la librería? Consulta nuestra **[Documentación Completa](./docs/README.md)** que incluye:
+
+- **[Guía de Inicio Rápido](./docs/GETTING_STARTED.md)** - Instalación y configuración paso a paso
+- **[Referencia de API](./docs/api/README.md)** - Documentación detallada de todos los componentes
+- **[Ejemplos de Uso](./docs/examples/README.md)** - Casos de uso reales y ejemplos prácticos
+- **[Arquitectura](./docs/ARCHITECTURE.md)** - Estructura interna y decisiones de diseño
+- **[Solución de Problemas](./docs/TROUBLESHOOTING.md)** - Guía para resolver problemas comunes
+- **[Changelog](./CHANGELOG.md)** - Historial de cambios y versiones
+
 ## Installation
 
 ```sh
