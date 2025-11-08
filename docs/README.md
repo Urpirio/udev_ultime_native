@@ -14,6 +14,14 @@ Aprende a instalar y configurar la librería en tu proyecto React Native. Incluy
 - Tu primer componente
 - Ejemplo de formulario completo
 
+#### [Referencia Rápida](./QUICK_REFERENCE.md)
+Guía de consulta rápida con ejemplos concisos de todos los componentes:
+- Sintaxis básica de cada componente
+- Props más comunes
+- Patrones de uso frecuentes
+- Tips de rendimiento
+- Validación de formularios
+
 #### [Ejemplos de Uso](./examples/README.md)
 Colección completa de ejemplos prácticos para casos de uso reales:
 - Formulario de login
@@ -167,7 +175,7 @@ npm run android
 ### Formas de Contribuir
 - Reportar bugs
 - Sugerir nuevas funcionalidades
-- Mejorar la documentación
+- Mejorar la documentación - ver [Guía para Contribuir a la Documentación](./CONTRIBUTING_DOCS.md)
 - Enviar pull requests
 - Compartir ejemplos de uso
 
