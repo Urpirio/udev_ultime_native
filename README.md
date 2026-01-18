@@ -1,5 +1,11 @@
 # udev_ultime_native
 
+[![npm version](https://img.shields.io/npm/v/udev_ultime_native.svg)](https://www.npmjs.com/package/udev_ultime_native)
+[![npm downloads](https://img.shields.io/npm/dm/udev_ultime_native.svg)](https://www.npmjs.com/package/udev_ultime_native)
+[![license](https://img.shields.io/npm/l/udev_ultime_native.svg)](https://github.com/Urpirio/udev_ultime_native/blob/main/LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
+[![React Native](https://img.shields.io/badge/React%20Native-%3E%3D0.70-green.svg)](https://reactnative.dev/)
+
 Librería de componentes UI optimizada para React Native que ofrece una colección completa de elementos de interfaz listos para usar: botones personalizables con múltiples tipos de interacción, campos de texto avanzados con soporte para iconos y validación, áreas de texto multilínea, campos de contraseña con visibilidad controlada, menús desplegables dinámicos, barras de progreso configurables, tarjetas simples y botones flotantes con animaciones. Diseñada con TypeScript para mejor tipado y rendimiento optimizado.
 
 ## 📚 Documentación Completa
@@ -8,16 +14,19 @@ Librería de componentes UI optimizada para React Native que ofrece una colecci�
 
 - **[Guía de Inicio Rápido](./docs/GETTING_STARTED.md)** - Instalación y configuración paso a paso
 - **[Referencia de API](./docs/api/README.md)** - Documentación detallada de todos los componentes
+- **[Referencia Rápida](./docs/QUICK_REFERENCE.md)** - Guía rápida con ejemplos concisos
 - **[Ejemplos de Uso](./docs/examples/README.md)** - Casos de uso reales y ejemplos prácticos
 - **[Arquitectura](./docs/ARCHITECTURE.md)** - Estructura interna y decisiones de diseño
 - **[Solución de Problemas](./docs/TROUBLESHOOTING.md)** - Guía para resolver problemas comunes
 - **[Changelog](./CHANGELOG.md)** - Historial de cambios y versiones
 
-## Installation
+## Instalación
 
 ```sh
-npm install udev_ultime_native react-native-reanimated
+npm install udev_ultime_native react-native-reanimated react-native-safe-area-context
 ```
+
+> **Nota**: Consulta la [Guía de Inicio Rápido](./docs/GETTING_STARTED.md) para instrucciones de configuración detalladas de `react-native-reanimated`.
 
 ## Versión Actual: 3.8.0
 
@@ -707,7 +716,7 @@ export default function App() {
 
 ## License
 
-MIT
+Apache 2.0 - Consulta el archivo [LICENSE](./LICENSE) para más detalles.
 
 ---
 

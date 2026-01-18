@@ -281,5 +281,5 @@ Ahora que has configurado la librería y creado tu primer formulario, puedes:
 Si tienes preguntas o encuentras problemas:
 
 - Revisa la [documentación completa](../README.md)
-- Abre un [issue en GitHub](https://github.com/Urpirio/Udev_Native/issues)
+- Abre un [issue en GitHub](https://github.com/Urpirio/udev_ultime_native/issues)
 - Consulta la guía de [contribución](../udev_ultime_native/CONTRIBUTING.md)

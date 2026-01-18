@@ -379,4 +379,4 @@ Gracias por ayudar a mejorar la documentación de udev_ultime_native.
 
 ---
 
-**Última actualización**: 2024-11-08
+**Última actualización**: 2025-01-18
