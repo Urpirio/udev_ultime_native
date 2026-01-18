@@ -20,13 +20,13 @@ Librería de componentes UI optimizada para React Native que ofrece una colecci�
 - **[Solución de Problemas](./docs/TROUBLESHOOTING.md)** - Guía para resolver problemas comunes
 - **[Changelog](./CHANGELOG.md)** - Historial de cambios y versiones
 
-## Instalación
+## Installation
 
 ```sh
 npm install udev_ultime_native react-native-reanimated react-native-safe-area-context
 ```
 
-> **Nota**: Consulta la [Guía de Inicio Rápido](./docs/GETTING_STARTED.md) para instrucciones de configuración detalladas de `react-native-reanimated`.
+> **Nota**: `react-native-reanimated` es requerido para las animaciones del `FloatingButton`, y `react-native-safe-area-context` es requerido para el manejo de áreas seguras en `LayoutScreen`. Consulta la [Guía de Inicio Rápido](./docs/GETTING_STARTED.md) para instrucciones de configuración detalladas.
 
 ## Versión Actual: 3.8.0
 
