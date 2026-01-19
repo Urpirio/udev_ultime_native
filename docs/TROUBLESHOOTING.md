@@ -451,8 +451,8 @@ npx react-native run-android --variant=release
 Si encuentras un bug que no está listado aquí:
 
 1. Verifica que estés usando la última versión de la librería
-2. Revisa los [issues abiertos en GitHub](https://github.com/Urpirio/Udev_Native/issues)
-3. Si el problema persiste, [abre un nuevo issue](https://github.com/Urpirio/Udev_Native/issues/new) con:
+2. Revisa los [issues abiertos en GitHub](https://github.com/Urpirio/udev_ultime_native/issues)
+3. Si el problema persiste, [abre un nuevo issue](https://github.com/Urpirio/udev_ultime_native/issues/new) con:
    - Descripción detallada del problema
    - Pasos para reproducir el error
    - Versión de la librería y React Native

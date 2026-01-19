@@ -1,5 +1,9 @@
 # Documentación de udev_ultime_native
 
+[![npm version](https://img.shields.io/npm/v/udev_ultime_native.svg)](https://www.npmjs.com/package/udev_ultime_native)
+[![npm downloads](https://img.shields.io/npm/dm/udev_ultime_native.svg)](https://www.npmjs.com/package/udev_ultime_native)
+[![license](https://img.shields.io/npm/l/udev_ultime_native.svg)](https://github.com/Urpirio/udev_ultime_native/blob/main/LICENSE)
+
 Bienvenido a la documentación completa de **udev_ultime_native**, una librería de componentes UI optimizada para React Native.
 
 ## 📚 Índice de Documentación
@@ -101,7 +105,7 @@ import { Button, InputText } from 'udev_ultime_native';
 
 ### Enlaces Externos
 
-- [Repositorio en GitHub](https://github.com/Urpirio/Udev_Native)
+- [Repositorio en GitHub](https://github.com/Urpirio/udev_ultime_native)
 - [NPM Package](https://www.npmjs.com/package/udev_ultime_native)
 - [React Native Docs](https://reactnative.dev/)
 - [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/)
@@ -192,13 +196,13 @@ Este proyecto está bajo la licencia Apache 2.0. Ver [LICENSE](../LICENSE) para 
 ## 🌟 Soporte
 
 Si encuentras útil esta librería, considera:
-- Darle una ⭐ en [GitHub](https://github.com/Urpirio/Udev_Native)
+- Darle una ⭐ en [GitHub](https://github.com/Urpirio/udev_ultime_native)
 - Compartirla con otros desarrolladores
 - Contribuir al proyecto
 - Reportar bugs y sugerir mejoras
 
 ---
 
-**Última actualización**: 2024-11-08
+**Última actualización**: 2025-01-18
 
-¿Tienes preguntas? Abre un [issue en GitHub](https://github.com/Urpirio/Udev_Native/issues).
+¿Tienes preguntas? Abre un [issue en GitHub](https://github.com/Urpirio/udev_ultime_native/issues).

@@ -540,8 +540,8 @@ const MyComponent = React.memo(({ data }) => {
 - [API Reference](./api/README.md)
 - [Ejemplos](./examples/README.md)
 - [Troubleshooting](./TROUBLESHOOTING.md)
-- [GitHub](https://github.com/Urpirio/Udev_Native)
+- [GitHub](https://github.com/Urpirio/udev_ultime_native)
 
 ---
 
-**Última actualización:** 2024-11-08
+**Última actualización:** 2025-01-18

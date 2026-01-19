@@ -1237,4 +1237,4 @@ const styles = StyleSheet.create({
 Para más ejemplos y casos de uso, visita:
 - [Aplicación de ejemplo](../../example/)
 - [Tests unitarios](../../udev_ultime_native/src/__tests__/)
-- [Repositorio GitHub](https://github.com/Urpirio/Udev_Native)
+- [Repositorio GitHub](https://github.com/Urpirio/udev_ultime_native)
